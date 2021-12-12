@@ -5,6 +5,8 @@ table.insert(ProceduralDistributions.list.CrateToys.items, "SOAEClothing.Hat_Pir
 table.insert(ProceduralDistributions.list.CrateToys.items, 3);
 table.insert(ProceduralDistributions.list.GigamartToys.items, "SOAEClothing.Hat_PirateHat");
 table.insert(ProceduralDistributions.list.GigamartToys.items, 3);
+table.insert(ProceduralDistributions.list.StripClubDressers.items, "SOAEClothing.Hat_PirateHat");
+table.insert(ProceduralDistributions.list.StripClubDressers.items, 3);
 
 table.insert(ProceduralDistributions.list.CrateToys.items, "SOAEClothing.Hat_SkullMask");
 table.insert(ProceduralDistributions.list.CrateToys.items, 3);
@@ -27,8 +29,3 @@ table.insert(ProceduralDistributions.list.SportStoreSneakers.items, "SOAEClothin
 table.insert(ProceduralDistributions.list.SportStoreSneakers.items, 3);
 table.insert(ProceduralDistributions.list.SchoolLockers.items, "SOAEClothing.Shoe_Cleats");
 table.insert(ProceduralDistributions.list.SchoolLockers.items, 2);
-
-
-
-
-
