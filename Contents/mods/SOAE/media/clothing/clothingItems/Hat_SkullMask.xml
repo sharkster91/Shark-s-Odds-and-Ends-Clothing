@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>clothes\skinned\M_SkullMask</m_MaleModel>
+	<m_FemaleModel>clothes\skinned\F_SkullMask</m_FemaleModel>
+	<m_GUID>5526a901-e239-4747-acd1-4b585b429a32</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>nohairnobeard</m_HatCategory>
+	<textureChoices>clothes\hat\Hat_SkullMask</textureChoices>
+</clothingItem>

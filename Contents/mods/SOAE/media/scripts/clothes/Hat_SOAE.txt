@@ -1,0 +1,65 @@
+module SOAEClothing
+{		
+
+		item Hat_SkullMask
+
+	{
+		Type = Clothing,
+		DisplayName = Skull Mask,
+		ClothingItem = Hat_SkullMask,
+		BodyLocation = Hat,
+		ScratchDefense = 10,
+		Icon = SkullMask,
+		CanHaveHoles = true,
+		BloodLocation = FullHelmet,
+		WorldStaticModel = SkullMask_WorldItem,
+		Tooltip = Tooltip_SkullMask,
+        Weight = 0.3,
+    }
+
+		item Hat_PirateHat
+
+	{
+		Type = Clothing,
+		DisplayName = Pirate Hat,
+		ClothingItem = Hat_PirateHat,
+		BodyLocation = Hat,
+		ScratchDefense = 10,
+		Icon = PirateHat,
+		ClothingItemExtra = Hat_PirateHatCentered,
+		ClothingItemExtraOption = Center,
+		BloodLocation = FullHelmet,
+		Tooltip = Tooltip_PirateHat,
+        Weight = 0.3,
+    }
+
+		item Hat_PirateHatCentered
+
+	{
+		Type = Clothing,
+		DisplayName = Pirate Hat (Centered),
+		ClothingItem = Hat_PirateHatCentered,
+		BodyLocation = Hat,
+		Icon = PirateHat,
+		ClothingItemExtra = Hat_PirateHat,
+		ClothingItemExtraOption = Uncenter,
+		BloodLocation = FullHelmet,
+		Tooltip = Tooltip_PirateHat,
+        Weight = 0.3,
+    }
+
+		item Hat_Desperadohat
+
+	{
+		Type = Clothing,
+		DisplayName = Desperado Hat,
+		ClothingItem = Hat_DesperadoHat,
+		BodyLocation = Hat,
+		Icon = DesperadoHat,
+		CanHaveHoles = true,
+		BloodLocation = FullHelmet,
+		Tooltip = Tooltip_DesperadoHat,
+        Weight = 0.3,
+    }
+
+}

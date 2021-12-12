@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+	
+<!-- Shark's Odds and Ends Clothing-->
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PirateHat.xml</path>
+	<guid>ea81aae9-02ee-4a4b-ab73-d62c70890df2</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_PirateHatCentered.xml</path>
+	<guid>b29afbd0-8a74-4944-a4cf-6ba8a579be64</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_SkullMask.xml</path>
+	<guid>5526a901-e239-4747-acd1-4b585b429a32</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Glasses_HeartGlasses.xml</path>
+	<guid>6fcb9bc1-a3d9-45ec-a53d-653e80b5fc46</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_DesperadoHat.xml</path>
+	<guid>5749ec3c-5902-4487-91dc-029bf8e8afca</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/Cape.xml</path>
+	<guid>94360483-4a7e-4861-9f59-83cc4b0c4726</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Tshirt_SharkDECAL.xml</path>
+	<guid>67edf064-d762-4b20-9099-af1400429419</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Shoes_Cleats.xml</path>
+	<guid>ffca4988-4188-455a-a3f3-d761bdd9d096</guid>
+	</files>
+
+</fileGuidTable>

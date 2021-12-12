@@ -1,0 +1,9 @@
+module Base
+{
+        model SkullMask_WorldItem
+	{
+		mesh = WorldItems/SkullMask_WorldItem,
+		texture = WorldItems/Hat_SkullMask,
+		scale = 0.5,
+	}
+}
