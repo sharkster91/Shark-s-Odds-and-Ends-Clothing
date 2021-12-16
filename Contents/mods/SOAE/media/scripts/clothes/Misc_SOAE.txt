@@ -1,19 +1,61 @@
 module SOAEClothing
 {
 
-    item Cape
+
+        item TacticalVest
     {
+        DisplayCategory = Clothing,
         Type = Clothing,
-        DisplayName = Cape,
-        ClothingItem = Cape,
-        BodyLocation = Necklace,
-        Icon	=	TshirtGeneric,
-        BloodLocation = Bag,
-        Insulation = 0.2,
-        WindResistance = 0.05,
-        FabricType = Cotton,
-        WorldStaticModel = TShirt_Ground,
+        DisplayName = Tactical Vest,
+        ClothingItem = TacticalVest,
+        BodyLocation = TorsoExtra,
+        Icon = PoliceTacticalVest,
+        BloodLocation = ShirtNoSleeves,
+        CanHaveHoles = False,
+        Insulation = 0.65,
+        WindResistance = 0.30,
+        BiteDefense = 30,
+        ScratchDefense = 55,
+        BulletDefense = 100,
+        WorldStaticModel = TacticalVest_WorldItem,
+        Tooltip = Tooltip_TacticalVest,
     }
+
+	    item BlackWebbing
+	{
+		DisplayCategory = Accessory,
+		Type = Container,
+		DisplayName = Black Webbing,
+		ClothingItem = BlackWebbing,
+		BodyLocation = AmmoStrap,
+		CanBeEquipped = AmmoStrap,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = BlackWebbingTightened,
+        ClothingItemExtraOption = Fasten,
+		Icon = BlackWebbing,
+		Tooltip = Tooltip_BlackWebbing,
+		WorldStaticModel = BlackWebbing_WorldItem,
+	}
+
+		item BlackWebbingTightened
+	{
+		DisplayCategory = Accessory,
+		Type = Container,
+		DisplayName = Black Webbing (Tightened),
+		ClothingItem = BlackWebbingTightened,
+		BodyLocation = AmmoStrap,
+		CanBeEquipped = AmmoStrap,
+		Capacity = 5,
+		WeightReduction	=	40,
+		RunSpeedModifier = 1,
+		ClothingItemExtra = BlackWebbing,
+        ClothingItemExtraOption = Unfasten,
+		Icon = BlackWebbing,
+		Tooltip = Tooltip_BlackWebbing,
+		WorldStaticModel = BlackWebbing_WorldItem,
+	}
 
     	item Glasses_HeartGlasses
 	{

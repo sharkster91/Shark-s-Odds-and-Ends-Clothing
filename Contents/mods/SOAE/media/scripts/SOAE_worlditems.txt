@@ -6,4 +6,18 @@ module Base
 		texture = WorldItems/Hat_SkullMask,
 		scale = 0.5,
 	}
+
+		model TacticalVest_WorldItem
+	{
+		mesh = WorldItems/TacticalVest_WorldItem,
+		texture = WorldItems/TacticalVest,
+		scale = 0.5,
+	}
+
+	    model BlackWebbing_WorldItem
+	{
+		mesh = WorldItems/BlackWebbing_WorldItem,
+		texture = WorldItems/BlackWebbing,
+		scale = 0.5,
+	}
 }

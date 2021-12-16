@@ -1,5 +1,9 @@
 version=1
 title=Shark's Odds and Ends Clothing
-description=Adds in odds and ends I did not want to include in my other mods but nevertheless wanted to release are here.
+description=[h1][b]This mod adds in odds and ends I did not want to add into my other mods because they had no place or were just variants of what I have already made.[b][/h1]
+description=
+description=[h2][b]What is currently featured in the mod?[/b][h2]
+description=[li]
+description=
 tags=
 visibility=public

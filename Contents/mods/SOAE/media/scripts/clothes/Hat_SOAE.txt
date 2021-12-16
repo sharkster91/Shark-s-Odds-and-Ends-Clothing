@@ -8,7 +8,6 @@ module SOAEClothing
 		DisplayName = Skull Mask,
 		ClothingItem = Hat_SkullMask,
 		BodyLocation = Hat,
-		ScratchDefense = 10,
 		Icon = SkullMask,
 		CanHaveHoles = true,
 		BloodLocation = FullHelmet,
