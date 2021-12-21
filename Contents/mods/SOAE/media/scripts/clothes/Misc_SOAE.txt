@@ -63,7 +63,7 @@ module SOAEClothing
 		DisplayName = Heart Glasses,
 		ClothingItem = Glasses_HeartGlasses,
 		BodyLocation = Eyes,
-		IconsForTexture = GlassesBlack;GlassesBlue;GlassesRed,
+		Icon = GlassesRed,
 		Weight = 0.1,
 		Cosmetic = TRUE,
 		ChanceToFall = 50,

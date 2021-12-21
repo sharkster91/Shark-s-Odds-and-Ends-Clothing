@@ -14,6 +14,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_WizardHat.xml</path>
+	<guid>957363c2-c880-412a-a318-e78ed8c42246</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_SkullMask.xml</path>
 	<guid>5526a901-e239-4747-acd1-4b585b429a32</guid>
 	</files>

@@ -3,7 +3,7 @@
 	<m_MaleModel>clothes\skinned\M_PirateHat</m_MaleModel>
 	<m_FemaleModel>clothes\skinned\F_PirateHat</m_FemaleModel>
 	<m_GUID>ea81aae9-02ee-4a4b-ab73-d62c70890df2</m_GUID>
-	<m_Static>true</m_Static>
+	<m_Static>false</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone>Bip01_Head</m_AttachBone>
