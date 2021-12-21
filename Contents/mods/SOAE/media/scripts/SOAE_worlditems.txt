@@ -3,7 +3,14 @@ module Base
         model SkullMask_WorldItem
 	{
 		mesh = WorldItems/SkullMask_WorldItem,
-		texture = WorldItems/Hat_SkullMask,
+		texture = WorldItems/SkullMask,
+		scale = 0.5,
+	}
+
+	    model WizardHat_WorldItem
+	{
+		mesh = WorldItems/WizardHat_WorldItem,
+		texture = WorldItems/WizardHat,
 		scale = 0.5,
 	}
 

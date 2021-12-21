@@ -54,9 +54,10 @@ module SOAEClothing
 		DisplayName = Wizard Hat,
 		ClothingItem = Hat_WizardHat,
 		BodyLocation = Hat,
-		Icon = PirateHat,
+		Icon = WizardHat,
 		ClothingItemExtra = Hat_WizardHat,
 		BloodLocation = FullHelmet,
+		WorldStaticModel = WizardHat_WorldItem,
 		Tooltip = Tooltip_WizardHat,
         Weight = 0.3,
     }
