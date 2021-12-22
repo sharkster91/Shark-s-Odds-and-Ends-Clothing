@@ -1,0 +1,13 @@
+module SOAEClothing
+{
+
+       recipe Create an improvised cloth mask
+    {
+       Sheet,
+       Result: Hat_ClothMask=1,
+       AnimNode:RipSheets,
+       Time:100.0,
+       Sound:ClothesRipping,
+    }
+
+}

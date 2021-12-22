@@ -24,6 +24,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_ClothMask.xml</path>
+	<guid>715ab743-3e07-4454-bba2-790a825c9323</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Glasses_HeartGlasses.xml</path>
 	<guid>6fcb9bc1-a3d9-45ec-a53d-653e80b5fc46</guid>
 	</files>

@@ -1,5 +1,13 @@
 module Base
 {
+
+	    model PirateHat_WorldItem
+	{
+		mesh = WorldItems/PirateHat_WorldItem,
+		texture = WorldItems/PirateHat,
+		scale = 0.5,
+	}
+
         model SkullMask_WorldItem
 	{
 		mesh = WorldItems/SkullMask_WorldItem,
@@ -11,6 +19,13 @@ module Base
 	{
 		mesh = WorldItems/WizardHat_WorldItem,
 		texture = WorldItems/WizardHat,
+		scale = 0.5,
+	}
+
+		model ClothMask_WorldItem
+	{
+		mesh = WorldItems/ClothMask_WorldItem,
+		texture = WorldItems/ClothMask,
 		scale = 0.5,
 	}
 

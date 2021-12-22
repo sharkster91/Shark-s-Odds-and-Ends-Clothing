@@ -4,6 +4,7 @@ module SOAEClothing
 		item Hat_SkullMask
 
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Skull Mask,
 		ClothingItem = Hat_SkullMask,
@@ -12,13 +13,13 @@ module SOAEClothing
 		CanHaveHoles = true,
 		BloodLocation = FullHelmet,
 		WorldStaticModel = SkullMask_WorldItem,
-		Tooltip = Tooltip_SkullMask,
         Weight = 0.3,
     }
 
 		item Hat_PirateHat
 
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Pirate Hat,
 		ClothingItem = Hat_PirateHat,
@@ -28,13 +29,14 @@ module SOAEClothing
 		ClothingItemExtra = Hat_PirateHatCentered,
 		ClothingItemExtraOption = Center,
 		BloodLocation = FullHelmet,
-		Tooltip = Tooltip_PirateHat,
+		WorldStaticModel = PirateHat_WorldItem,
         Weight = 0.3,
     }
 
 		item Hat_PirateHatCentered
 
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Pirate Hat (Centered),
 		ClothingItem = Hat_PirateHatCentered,
@@ -43,13 +45,14 @@ module SOAEClothing
 		ClothingItemExtra = Hat_PirateHat,
 		ClothingItemExtraOption = Uncenter,
 		BloodLocation = FullHelmet,
-		Tooltip = Tooltip_PirateHat,
+		WorldStaticModel = PirateHat_WorldItem,
         Weight = 0.3,
     }
 
 		item Hat_WizardHat
 
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Wizard Hat,
 		ClothingItem = Hat_WizardHat,
@@ -58,13 +61,13 @@ module SOAEClothing
 		ClothingItemExtra = Hat_WizardHat,
 		BloodLocation = FullHelmet,
 		WorldStaticModel = WizardHat_WorldItem,
-		Tooltip = Tooltip_WizardHat,
         Weight = 0.3,
     }
 
 		item Hat_Desperadohat
 
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Desperado Hat,
 		ClothingItem = Hat_DesperadoHat,
@@ -72,7 +75,21 @@ module SOAEClothing
 		Icon = DesperadoHat,
 		CanHaveHoles = true,
 		BloodLocation = FullHelmet,
-		Tooltip = Tooltip_DesperadoHat,
+        Weight = 0.3,
+    }
+
+		item Hat_ClothMask
+
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Improvised Cloth Mask,
+		ClothingItem = Hat_ClothMask,
+		BodyLocation = MaskEyes,
+		Icon = ClothMask,
+		CanHaveHoles = true,
+		BloodLocation = FullHelmet,
+		WorldStaticModel = ClothMask_WorldItem,
         Weight = 0.3,
     }
 
