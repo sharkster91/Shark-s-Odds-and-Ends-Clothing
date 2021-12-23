@@ -37,21 +37,6 @@
 	<path>media/clothing/clothingItems/Hat_DesperadoHat.xml</path>
 	<guid>5749ec3c-5902-4487-91dc-029bf8e8afca</guid>
 	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/TacticalVest.xml</path>
-	<guid>10b98078-7998-4b5f-9304-b025bef80134</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/BlackWebbing.xml</path>
-	<guid>d56b1e00-d843-4e73-8471-1486f3d0c25b</guid>
-	</files>
-
-	<files>
-	<path>media/clothing/clothingItems/BlackWebbingTightened.xml</path>
-	<guid>151d4ed2-f465-4392-8fb3-afa987ac5e02</guid>
-	</files>
 	
 	<files>
 	<path>media/clothing/clothingItems/Shoes_Cleats.xml</path>
