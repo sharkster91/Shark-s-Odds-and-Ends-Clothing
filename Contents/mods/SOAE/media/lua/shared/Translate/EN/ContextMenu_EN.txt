@@ -1,0 +1,4 @@
+ContextMenu_EN = {
+	ContextMenu_Center = "Center",
+    ContextMenu_Uncenter = "Uncenter",
+} 
