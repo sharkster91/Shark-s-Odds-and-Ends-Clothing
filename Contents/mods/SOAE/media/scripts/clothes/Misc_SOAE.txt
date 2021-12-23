@@ -1,69 +1,13 @@
 module SOAEClothing
 {
 
-
-        item TacticalVest
-    {
-        DisplayCategory = Clothing,
-        Type = Clothing,
-        DisplayName = Tactical Vest,
-        ClothingItem = TacticalVest,
-        BodyLocation = TorsoExtra,
-        Icon = PoliceTacticalVest,
-        BloodLocation = ShirtNoSleeves,
-        CanHaveHoles = False,
-        Insulation = 0.65,
-        WindResistance = 0.30,
-        BiteDefense = 30,
-        ScratchDefense = 55,
-        BulletDefense = 100,
-        WorldStaticModel = TacticalVest_WorldItem,
-        Tooltip = Tooltip_TacticalVest,
-    }
-
-	    item BlackWebbing
-	{
-		DisplayCategory = Accessory,
-		Type = Container,
-		DisplayName = Black Webbing,
-		ClothingItem = BlackWebbing,
-		BodyLocation = AmmoStrap,
-		CanBeEquipped = AmmoStrap,
-		Capacity = 5,
-		WeightReduction	=	40,
-		RunSpeedModifier = 1,
-		ClothingItemExtra = BlackWebbingTightened,
-        ClothingItemExtraOption = Fasten,
-		Icon = BlackWebbing,
-		Tooltip = Tooltip_BlackWebbing,
-		WorldStaticModel = BlackWebbing_WorldItem,
-	}
-
-		item BlackWebbingTightened
-	{
-		DisplayCategory = Accessory,
-		Type = Container,
-		DisplayName = Black Webbing (Tightened),
-		ClothingItem = BlackWebbingTightened,
-		BodyLocation = AmmoStrap,
-		CanBeEquipped = AmmoStrap,
-		Capacity = 5,
-		WeightReduction	=	40,
-		RunSpeedModifier = 1,
-		ClothingItemExtra = BlackWebbing,
-        ClothingItemExtraOption = Unfasten,
-		Icon = BlackWebbing,
-		Tooltip = Tooltip_BlackWebbing,
-		WorldStaticModel = BlackWebbing_WorldItem,
-	}
-
     	item Glasses_HeartGlasses
 	{
 		Type = Clothing,
 		DisplayName = Heart Glasses,
 		ClothingItem = Glasses_HeartGlasses,
 		BodyLocation = Eyes,
-		Icon = GlassesRed,
+		Icon = HeartGlasses,
 		Weight = 0.1,
 		Cosmetic = TRUE,
 		ChanceToFall = 50,

@@ -29,6 +29,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/Hat_DungeonMaster.xml</path>
+	<guid>0cc6c636-3bd2-4d23-a82f-368fe84866ad</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Glasses_HeartGlasses.xml</path>
 	<guid>6fcb9bc1-a3d9-45ec-a53d-653e80b5fc46</guid>
 	</files>

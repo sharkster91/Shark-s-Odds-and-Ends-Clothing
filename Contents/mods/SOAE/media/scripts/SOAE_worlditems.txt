@@ -29,17 +29,12 @@ module Base
 		scale = 0.5,
 	}
 
-		model TacticalVest_WorldItem
+		model DungeonMaster_WorldItem
 	{
-		mesh = WorldItems/TacticalVest_WorldItem,
-		texture = WorldItems/TacticalVest,
+		mesh = WorldItems/DungeonMaster_WorldItem,
+		texture = WorldItems/DungeonMaster,
 		scale = 0.5,
 	}
 
-	    model BlackWebbing_WorldItem
-	{
-		mesh = WorldItems/BlackWebbing_WorldItem,
-		texture = WorldItems/BlackWebbing,
-		scale = 0.5,
-	}
+
 }
