@@ -1,9 +1,0 @@
-Tooltip_EN = {
-    
-    Tooltip_SkullMask = "A rubber halloween mask. Spooky.",
-    Tooltip_PirateHat = "A hat fit for any pirate or apocalyptic warlord.",
-    Tooltip_DesperadoHat = "An old fashioned cowboy hat.",
-    Tooltip_BlackWebbing = "Aftermarket webbing marketed toward enthusiasts and mall ninjas.
-    Tooltip_Cleats = "Well suited for stomping in heads on and off the field.",
-
-}
