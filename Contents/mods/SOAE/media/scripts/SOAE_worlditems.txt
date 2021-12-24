@@ -21,6 +21,13 @@ module Base
 		texture = WorldItems/WizardHat,
 		scale = 0.5,
 	}
+	
+		model DesperadoHat_WorldItem
+	{
+		mesh = WorldItems/DesperadoHat_WorldItem,
+		texture = WorldItems/DesperadoHat,
+		scale = 0.5,
+	}
 
 	    model HeartGlasses_WorldItem
 	{

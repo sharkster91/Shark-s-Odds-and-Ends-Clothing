@@ -40,7 +40,7 @@ table.insert(ProceduralDistributions.list.WardrobeManClassy.items, "SOAEClothing
 table.insert(ProceduralDistributions.list.WardrobeManClassy.items, 3);
 
 table.insert(ProceduralDistributions.list.CrateSports.items, "SOAEClothing.Shoe_Cleats");
-table.insert(ProceduralDistributions.list.CrateSports.items, 3);-
+table.insert(ProceduralDistributions.list.CrateSports.items, 3);
 table.insert(ProceduralDistributions.list.SportStoreSneakers.items, "SOAEClothing.Shoe_Cleats");
 table.insert(ProceduralDistributions.list.SportStoreSneakers.items, 3);
 table.insert(ProceduralDistributions.list.SchoolLockers.items, "SOAEClothing.Shoe_Cleats");

@@ -75,6 +75,7 @@ module SOAEClothing
 		Icon = DesperadoHat,
 		CanHaveHoles = true,
 		BloodLocation = FullHelmet,
+		WorldStaticModel = DesperadoHat_WorldItem,
         Weight = 0.3,
     }
 
