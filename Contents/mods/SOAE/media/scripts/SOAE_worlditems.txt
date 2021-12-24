@@ -22,6 +22,13 @@ module Base
 		scale = 0.5,
 	}
 
+	    model HeartGlasses_WorldItem
+	{
+		mesh = WorldItems/HeartGlasses_WorldItem,
+		texture = WorldItems/HeartGlasses,
+		scale = 0.5,
+	}
+
 		model ClothMask_WorldItem
 	{
 		mesh = WorldItems/ClothMask_WorldItem,

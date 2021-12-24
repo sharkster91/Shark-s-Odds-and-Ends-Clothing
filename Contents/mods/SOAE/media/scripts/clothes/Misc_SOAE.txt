@@ -11,6 +11,7 @@ module SOAEClothing
 		Weight = 0.1,
 		Cosmetic = TRUE,
 		ChanceToFall = 50,
+		WorldStaticModel =  HeartGlasses_WorldItem,
 	}
 
 }
