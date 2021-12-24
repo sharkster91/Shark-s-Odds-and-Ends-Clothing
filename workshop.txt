@@ -1,5 +1,7 @@
 version=1
 title=Shark's Odds and Ends Clothing
+description= [url=https://ko-fi.com/sharkmods]Consider buying me a coffee[/url]
+description=
 description=[h1][b]This mod adds in odds and ends that I have laying around and wanted to add to PZ that are out of the realm of my other mods[b][/h1]
 description=
 description=[h2][b]What is currently featured in the mod?[/b][h2]
@@ -12,6 +14,7 @@ description=Improvised Cloth Mask (Must be crafted)
 description=Desperado Hat
 description=Heart Glasses
 description=Cleats
+description=SOON: Capes?
 description=[/l1]
 description=
 description=[h2]Where can I find this stuff?[/h2]

@@ -2,6 +2,7 @@ module SOAEClothing
 {   
 	item Shoes_Cleats
 	{
+		DisplayCategory = Clothing,
 		Type = Clothing,
 		DisplayName = Cleats,
 		ClothingItem = Shoes_Cleats,
@@ -16,7 +17,6 @@ module SOAEClothing
         ScratchDefense = 15,
         Insulation = 0.35,
         WindResistance = 0.25,
-		Tooltip = Tooltip_Cleats,
         WorldStaticModel = Shoes_Ground,
 	}
 
