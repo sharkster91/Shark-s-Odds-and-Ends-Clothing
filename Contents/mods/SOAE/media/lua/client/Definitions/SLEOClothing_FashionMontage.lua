@@ -24,9 +24,9 @@ local clothing = {
 	Hat = {
 		"SOAEClothing.Hat_WizardHat",
 		"SOAEClothing.Hat_SkullMask",
-		"SOAEClothing.Hat_DesperadoHat"
-		"SOAEClothing.Hat_DungeonMaster"
-		"SOAEClothing.Hat_ClothMask"
+		"SOAEClothing.Hat_DesperadoHat",
+		"SOAEClothing.Hat_DungeonMaster",
+		"SOAEClothing.Hat_ClothMask",
 
 
 	},
