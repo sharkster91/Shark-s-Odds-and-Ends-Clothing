@@ -15,7 +15,7 @@ table.insert(ProceduralDistributions.list.StripClubDressers.items, "SOAEClothing
 table.insert(ProceduralDistributions.list.StripClubDressers.items, 0.05);
 
 table.insert(ProceduralDistributions.list.StripClubDressers.items, "SOAEClothing.Hat_DungeonMaster");
-table.insert(ProceduralDistributions.list.StripClubDressers.items, 5);
+table.insert(ProceduralDistributions.list.StripClubDressers.items, 2);
 table.insert(ProceduralDistributions.list.Locker.items, "SOAEClothing.Hat_DungeonMaster");
 table.insert(ProceduralDistributions.list.Locker.items, 0.01);
 
