@@ -14,11 +14,6 @@ table.insert(ProceduralDistributions.list.GigamartToys.items, 0.05);
 table.insert(ProceduralDistributions.list.StripClubDressers.items, "SOAEClothing.Glasses_HeartGlasses");
 table.insert(ProceduralDistributions.list.StripClubDressers.items, 0.05);
 
-table.insert(ProceduralDistributions.list.StripClubDressers.items, "SOAEClothing.Hat_DungeonMaster");
-table.insert(ProceduralDistributions.list.StripClubDressers.items, 2);
-table.insert(ProceduralDistributions.list.Locker.items, "SOAEClothing.Hat_DungeonMaster");
-table.insert(ProceduralDistributions.list.Locker.items, 0.01);
-
 table.insert(ProceduralDistributions.list.CrateToys.items, "SOAEClothing.Hat_SkullMask");
 table.insert(ProceduralDistributions.list.CrateToys.items, 0.05);
 table.insert(ProceduralDistributions.list.GigamartToys.items, "SOAEClothing.Hat_SkullMask");

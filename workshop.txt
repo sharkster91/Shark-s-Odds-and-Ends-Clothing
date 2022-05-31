@@ -15,7 +15,6 @@ description=Improvised Cloth Mask (Must be crafted)
 description=Desperado Hat
 description=Heart Glasses
 description=Cleats
-description=Dungeon Master Mask ( ͡° ͜ʖ ͡°)
 description=SOON: Capes?
 description=[/l1st]
 description=
