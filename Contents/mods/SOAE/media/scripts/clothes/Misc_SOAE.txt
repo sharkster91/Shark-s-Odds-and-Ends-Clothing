@@ -15,4 +15,18 @@ module SOAEClothing
 		WorldStaticModel =  HeartGlasses_WorldItem,
 	}
 
+	    item Trousers_AsslessChaps
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = Assless Chaps,
+		ClothingItem = Trousers_AsslessChaps,
+		BodyLocation = Eyes,
+		Icon = HeartGlasses,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+		ChanceToFall = 50,
+		WorldStaticModel =  HeartGlasses_WorldItem,
+	}
+
 }

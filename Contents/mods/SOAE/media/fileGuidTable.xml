@@ -48,4 +48,9 @@
 	<guid>ffca4988-4188-455a-a3f3-d761bdd9d096</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Trousers_AsslessChaps.xml</path>
+	<guid>763577d9-65f0-4807-873e-2837c78bb679</guid>
+	</files>
+
 </fileGuidTable>
